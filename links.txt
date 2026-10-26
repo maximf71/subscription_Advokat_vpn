@@ -1,2 +1,2 @@
-hysteria2://xqj5ixw0jbftskfs@130.78.12.100:443?alpn=h3&insecure=1&obfs=salamander&obfs-password=a1a6d882c8c5cc155a04935a6d734ca3&security=tls&sni=130.78.12.100#Hy2-443-Advokat%7C%20%D0%98%D1%81%D1%82%D0%B5%D0%BA%D0%B0%D0%B5%D1%82%3A%202026-11-24
+hysteria2://xqj5ixw0jbftskfs@130.78.12.100:443?alpn=h3&insecure=1&obfs=salamander&obfs-password=a1a6d882c8c5cc155a04935a6d734ca3&security=tls&sni=130.78.12.100#Hy2-443-Advokat%7C%20%D0%98%D1%81%D1%82%D0%B5%D0%BA%D0%B0%D0%B5%D1%82%3A%2024.11.2026
 hysteria2://xqj5ixw0jbftskfs@130.78.12.100:20000?alpn=h3&insecure=1&obfs=salamander&obfs-password=a1a6d882c8c5cc155a04935a6d734ca3&security=tls&sni=130.78.12.100#Hy2-Hop
